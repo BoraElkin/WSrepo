@@ -1,14 +1,6 @@
 # Submission — AI Immigration Case Manager
 
-## 1. Demo Video
-
-[INSERT LINK TO DEMO VIDEO HERE]
-
-*2–3 minute walkthrough showing the full intake → AI analysis → lawyer review flow.*
-
----
-
-## 2. Written Explanation
+## 1. Written Explanation
 
 **What the human can now do that they couldn't before.**
 
@@ -30,9 +22,9 @@ Trust calibration. The system works when a lawyer reads every brief carefully. A
 
 ## 3. Salary & Experience
 
-**Salary expectation:** [INSERT YOUR SALARY EXPECTATION]
+**Salary expectation:** 65000-75000
 
-**Years of hands-on experience with AI tools or systems:** [INSERT YOUR YEARS OF EXPERIENCE]
+**Years of hands-on experience with AI tools or systems:** 2 Years of Experience
 
 ---
 
