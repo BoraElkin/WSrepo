@@ -24,7 +24,7 @@ Trust calibration. The system works when a lawyer reads every brief carefully. A
 
 **Salary expectation:** 65000-75000
 
-**Years of hands-on experience with AI tools or systems:** 1-2 Years of Experience
+**Years of hands-on experience with AI tools or systems:** 2 Years of Experience
 
 ---
 
